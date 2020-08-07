@@ -2,3 +2,7 @@
 *.css.map
 *.sass.map
 *.scss.map
+**/.terraform
+**/terraform.tfstate
+**/terraform.tfstate.backup
+
